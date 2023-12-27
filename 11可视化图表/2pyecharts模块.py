@@ -1,6 +1,6 @@
 from pyecharts.charts import Line
 from pyecharts.options import TitleOpts, LegendOpts, ToolboxOpts, VisualMapOpts
-# 创建一个折线图对象
+# 创建一个折线图对 象
 Line = Line()
 Line.add_xaxis(["中国", "美国", "英国"])
 Line.add_yaxis("GDP", [20, 30, 20])
