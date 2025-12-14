@@ -3,5 +3,5 @@ with open('info.txt','r',encoding='utf-8') as f,\
     for i in f:
         a = i.strip()
         name,age = a.split(',')
-        if 18<=int(age)<=21:
-            f1.write(a+'\n')
+        if 18<=int(age):
+            f1.write(i)
