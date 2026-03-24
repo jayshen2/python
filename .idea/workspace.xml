@@ -7,14 +7,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b6eafb-be03-4d0f-a2e1-6ee6433a0a64" name="变更" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/工程.iml&#10;#&#9;14网络工程/ssh登录.py&#10;#&#9;14网络工程/telnet登录ensp.py">
-      <change afterPath="$PROJECT_DIR$/sjfx/2. 数据分析基础_numpy.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sjfx/lesson2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sjfx/lesson2_1实验.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sjfx/实验1. numpy基础.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson2_1/lesson2_1.py" afterDir="false" />
+    <list default="true" id="14b6eafb-be03-4d0f-a2e1-6ee6433a0a64" name="变更" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/15数据分析/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/4.数据分析基础_数据载入存储及文件格式.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/5.数据分析基础_数据清洗与准备.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/HuRun.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/data_test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/data_test02.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/data_test03.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/data_test04.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/data_test05.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/diamonds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/sec_cars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/data/sunspots.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/diamonds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson5_2/lesson5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/HuRun.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/data_test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/data_test02.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/data_test03.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/data_test04.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/data_test05.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/diamonds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/sec_cars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/data/sunspots.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/lesson6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson4_1/lesson4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson4_2/lesso4_2_sina.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson5_1/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson5_1/lesson5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson5_1/lesson5_1_dou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson5_1/数据2571_29_郭沅森.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson5_2/lesson5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2026_3_20_17_17____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2026_3_20_17_17_取消提交了更改_[变更]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sjfx/lesson1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjfx/lesson1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11可视化图表/全国疫情地图.html" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/全国疫情地图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15数据分析/实验2-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/实验2-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +100,7 @@
 }</component>
   <component name="ProjectId" id="2JL9KPz5hshshq33CHrKNBloXU0" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="2" id="Remove" />
   </component>
@@ -74,92 +108,105 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1文件的读取.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7必考.executor&quot;: &quot;Run&quot;,
-    &quot;Python.accountDict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adminDict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.areaCompute.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chickem100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chrTell.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cuo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dateStr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.digitals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mul99.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myDict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myFib.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myFormat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mySqrt (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.nameCount (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.nameCount.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nosLetters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.paramiko.executor&quot;: &quot;Run&quot;,
-    &quot;Python.paramiko11 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.piecewise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.primes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reg_polygon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scireLevel.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.scoreDict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scoreLevel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sinDegree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.soceStatistics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.squareSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ssh登录.executor&quot;: &quot;Run&quot;,
-    &quot;Python.starTri.executor&quot;: &quot;Run&quot;,
-    &quot;Python.statisticAnalysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum15 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.sxh.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teacher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.telnet登录ensp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tempTran.executor&quot;: &quot;Run&quot;,
-    &quot;Python.triType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tupleOeration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wordCount.executor&quot;: &quot;Run&quot;,
-    &quot;Python.迭代器.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/工程&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JavaScript 调试.全国疫情地图.html.executor": "Run",
+    "Python.1 (1).executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.1文件的读取.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.5疫情可视化.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.7必考.executor": "Run",
+    "Python.accountDict.executor": "Run",
+    "Python.adminDict.executor": "Run",
+    "Python.areaCompute.executor": "Run",
+    "Python.calSum.executor": "Run",
+    "Python.chickem100.executor": "Run",
+    "Python.chrTell.executor": "Run",
+    "Python.cuo.executor": "Run",
+    "Python.dateStr.executor": "Run",
+    "Python.digitals.executor": "Run",
+    "Python.guess_num.executor": "Run",
+    "Python.lesso4_2_sina.executor": "Run",
+    "Python.lesson1_2.executor": "Run",
+    "Python.lesson2_1.executor": "Run",
+    "Python.lesson2_2.executor": "Run",
+    "Python.lesson4_1 (1).executor": "Run",
+    "Python.lesson4_1.executor": "Run",
+    "Python.lesson5_1.executor": "Run",
+    "Python.lesson5_1_dou.executor": "Run",
+    "Python.lesson5_2 (1).executor": "Run",
+    "Python.lesson5_2.executor": "Run",
+    "Python.lesson6_1 (1).executor": "Run",
+    "Python.lesson6_1.executor": "Run",
+    "Python.mul99.executor": "Run",
+    "Python.myDict.executor": "Run",
+    "Python.myFib.executor": "Run",
+    "Python.myFormat.executor": "Run",
+    "Python.mySqrt (1).executor": "Run",
+    "Python.nameCount (1).executor": "Run",
+    "Python.nameCount.executor": "Run",
+    "Python.nosLetters.executor": "Run",
+    "Python.paramiko.executor": "Run",
+    "Python.paramiko11 (1).executor": "Run",
+    "Python.piecewise.executor": "Run",
+    "Python.primes.executor": "Run",
+    "Python.print_num.executor": "Run",
+    "Python.reg_polygon.executor": "Run",
+    "Python.scireLevel.executor": "Debug",
+    "Python.scoreDict.executor": "Run",
+    "Python.scoreLevel.executor": "Run",
+    "Python.sinDegree.executor": "Run",
+    "Python.soceStatistics.executor": "Run",
+    "Python.squareSum.executor": "Run",
+    "Python.ssh登录.executor": "Run",
+    "Python.starTri.executor": "Run",
+    "Python.statisticAnalysis.executor": "Run",
+    "Python.sum15 (1).executor": "Run",
+    "Python.sxh.executor": "Run",
+    "Python.teacher.executor": "Run",
+    "Python.telnet登录ensp.executor": "Run",
+    "Python.tempTran.executor": "Run",
+    "Python.triType.executor": "Run",
+    "Python.tupleOeration.executor": "Run",
+    "Python.wordCount.executor": "Run",
+    "Python.实验2-1.executor": "Run",
+    "Python.迭代器.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/python/15数据分析",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;sqlserver&quot;,
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver",
+      "mysql"
     ],
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="工程" is-module-sdk="true">
@@ -171,24 +218,31 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\15数据分析" />
+      <recent name="D:\python\15数据分析\lesson5_2\data" />
+      <recent name="D:\python\webspider\lesson5_1" />
+      <recent name="D:\python\实验一" />
       <recent name="D:\工程\10异常、模块、包" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\python\考试" />
-      <recent name="D:\python\实验四" />
-      <recent name="D:\python\作业2" />
-      <recent name="D:\工程\10异常、模块、包" />
-      <recent name="D:\工程\9文件的操作\测试" />
+      <recent name="D:\python\15数据分析\lesson6_1" />
+      <recent name="D:\python\15数据分析\lesson5_2" />
+      <recent name="D:\python\webspider\lesson5_2" />
+      <recent name="D:\python\15数据分析" />
+      <recent name="D:\python\webspider\lesson4_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson2_1">
-    <configuration name="render.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/工程/可视化图表/render.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Python.lesson6_1 (1)">
+    <configuration name="全国疫情地图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/未命名0.py/11可视化图表/全国疫情地图.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="render.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/工程/可视化图表/render.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="render.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/工程/可视化图表/render.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="实验2-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,13 +251,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/考试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15数据分析" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/考试/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15数据分析/实验2-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson5_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,13 +275,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/考试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15数据分析/lesson5_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/考试/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15数据分析/lesson5_2/lesson5_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7必考" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson6_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,13 +299,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/考试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15数据分析/lesson6_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/考试/7必考.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15数据分析/lesson6_1/lesson6_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson6_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,37 +323,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sjfx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15数据分析" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sjfx/lesson1_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="工程" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webspider/lesson2_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webspider/lesson2_1/lesson2_1.py" />
+      <option name="SCRIPT_NAME" value="D:\python\15数据分析\lesson6_1\lesson6_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,19 +340,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson2_1" />
-        <item itemvalue="Python.lesson1_2" />
-        <item itemvalue="Python.6" />
-        <item itemvalue="Python.1 (1)" />
-        <item itemvalue="Python.7必考" />
+        <item itemvalue="Python.lesson6_1 (1)" />
+        <item itemvalue="Python.lesson6_1" />
+        <item itemvalue="Python.实验2-1" />
+        <item itemvalue="Python.lesson5_2 (1)" />
+        <item itemvalue="JavaScript 调试.全国疫情地图.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.32098.74" />
+        <option value="bundled-python-sdk-1cd77e80b48f-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.32098.74" />
       </set>
     </attachedChunks>
   </component>
@@ -509,6 +539,18 @@
       <workItem from="1773140039765" duration="3284000" />
       <workItem from="1773143365230" duration="857000" />
       <workItem from="1773144353070" duration="1022000" />
+      <workItem from="1774349312507" duration="3033000" />
+      <workItem from="1774446393475" duration="128000" />
+      <workItem from="1774518455457" duration="210000" />
+      <workItem from="1774569737386" duration="5622000" />
+      <workItem from="1774781383316" duration="655000" />
+      <workItem from="1774946395161" duration="1597000" />
+      <workItem from="1774954501663" duration="11111000" />
+      <workItem from="1775010578686" duration="640000" />
+      <workItem from="1775041272254" duration="5150000" />
+      <workItem from="1775174047820" duration="6364000" />
+      <workItem from="1775207776904" duration="2543000" />
+      <workItem from="1775540272814" duration="413000" />
     </task>
     <task id="LOCAL-00046" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1672681927668</created>
@@ -853,7 +895,7 @@
       <option name="project" value="LOCAL" />
       <updated>1677071126870</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -893,105 +935,118 @@
     <MESSAGE value="python" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;9文件的操作/1文件的读取2及练习.py" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/工程.iml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/工程.iml&#10;#&#9;14网络工程/ssh登录.py&#10;#&#9;14网络工程/telnet登录ensp.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.idea/工程.iml&#10;#&#9;14网络工程/ssh登录.py&#10;#&#9;14网络工程/telnet登录ensp.py" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$guess_num.coverage" NAME="guess_num 覆盖结果" MODIFIED="1760448023330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
     <SUITE FILE_PATH="coverage/python$cuo.coverage" NAME="cuo 覆盖结果" MODIFIED="1760448238254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
     <SUITE FILE_PATH="coverage/python$piecewise.coverage" NAME="piecewise 覆盖结果" MODIFIED="1764080277008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
-    <SUITE FILE_PATH="coverage/python$chrTell.coverage" NAME="chrTell 覆盖结果" MODIFIED="1760443269367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
+    <SUITE FILE_PATH="coverage/0_py$lesson2_2.coverage" NAME="lesson2_2 覆盖结果" MODIFIED="1774334353529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
     <SUITE FILE_PATH="coverage/$file_util.coverage" NAME="file_util 覆盖结果" MODIFIED="1673172211032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/my_utils" />
     <SUITE FILE_PATH="coverage/$5python.coverage" NAME="5python包 覆盖结果" MODIFIED="1672824341721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
-    <SUITE FILE_PATH="coverage/python$1__1_.coverage" NAME="1 (1) 覆盖结果" MODIFIED="1766112906738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
     <SUITE FILE_PATH="coverage/$input.coverage" NAME="input语句 覆盖结果" MODIFIED="1677244272797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3input语句及练习" />
     <SUITE FILE_PATH="coverage/$5python__1_.coverage" NAME="5python包 (1) 覆盖结果" MODIFIED="1672825797636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
-    <SUITE FILE_PATH="coverage/python$telnetensp.coverage" NAME="telnet登录ensp 覆盖结果" MODIFIED="1763014506354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
-    <SUITE FILE_PATH="coverage/$4__1_.coverage" NAME="4构造方法及练习 (1) 覆盖结果" MODIFIED="1677244671309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/$ssh.coverage" NAME="ssh登录 覆盖结果" MODIFIED="1696427937763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网络工程" />
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="迭代器 覆盖结果" MODIFIED="1761661744222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
+    <SUITE FILE_PATH="coverage/0_py$lesson5_2.coverage" NAME="lesson5_2 覆盖结果" MODIFIED="1775046813177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson5_2" />
     <SUITE FILE_PATH="coverage/$6__1_.coverage" NAME="6封装及练习 (1) 覆盖结果" MODIFIED="1677473387657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/python$sxh.coverage" NAME="sxh 覆盖结果" MODIFIED="1761922243171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
-    <SUITE FILE_PATH="coverage/python$mul99.coverage" NAME="mul99 覆盖结果" MODIFIED="1761043496910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验三" />
-    <SUITE FILE_PATH="coverage/$2pyecharts.coverage" NAME="2pyecharts模块 覆盖结果" MODIFIED="1676462248395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
     <SUITE FILE_PATH="coverage/$5python__2_.coverage" NAME="5python包 (2) 覆盖结果" MODIFIED="1673165553323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包" />
+    <SUITE FILE_PATH="coverage/0_py$lesso4_2_sina.coverage" NAME="lesso4_2_sina 覆盖结果" MODIFIED="1774955731716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson4_2" />
     <SUITE FILE_PATH="coverage/python$reg_polygon.coverage" NAME="reg_polygon 覆盖结果" MODIFIED="1764080132816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
-    <SUITE FILE_PATH="coverage/$6.coverage" NAME="6封装 覆盖结果" MODIFIED="1677470322520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/python$paramiko11__1_.coverage" NAME="paramiko11 (1) 覆盖结果" MODIFIED="1763091529396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
     <SUITE FILE_PATH="coverage/$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1673162542312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
     <SUITE FILE_PATH="coverage/$5package__1_.coverage" NAME="5package (1) 覆盖结果" MODIFIED="1672825734689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/python$nameCount.coverage" NAME="nameCount 覆盖结果" MODIFIED="1762264005400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验七" />
-    <SUITE FILE_PATH="coverage/python$myFormat.coverage" NAME="myFormat 覆盖结果" MODIFIED="1762263806092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验七" />
-    <SUITE FILE_PATH="coverage/python$myDict.coverage" NAME="myDict 覆盖结果" MODIFIED="1761316415440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验五" />
-    <SUITE FILE_PATH="coverage/python$dateStr.coverage" NAME="dateStr 覆盖结果" MODIFIED="1761446679057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验四" />
     <SUITE FILE_PATH="coverage/python$6.coverage" NAME="6 覆盖结果" MODIFIED="1766113547982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
+    <SUITE FILE_PATH="coverage/python$dateStr.coverage" NAME="dateStr 覆盖结果" MODIFIED="1761446679057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验四" />
+    <SUITE FILE_PATH="coverage/python$myDict.coverage" NAME="myDict 覆盖结果" MODIFIED="1761316415440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验五" />
+    <SUITE FILE_PATH="coverage/0_py$5.coverage" NAME="5疫情可视化 覆盖结果" MODIFIED="1775178731965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11可视化图表" />
     <SUITE FILE_PATH="coverage/$9.coverage" NAME="9类型注解 覆盖结果" MODIFIED="1677670132220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/$12__1_.coverage" NAME="1文件的读取2及练习 (1) 覆盖结果" MODIFIED="1672561409492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9文件的操作" />
     <SUITE FILE_PATH="coverage/python$nosLetters.coverage" NAME="nosLetters 覆盖结果" MODIFIED="1760447136466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="复写父类成员 覆盖结果" MODIFIED="1677489860601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/$5str.coverage" NAME="5str字符串及练习 覆盖结果" MODIFIED="1676464020758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
+    <SUITE FILE_PATH="coverage/0_py$lesson4_1__1_.coverage" NAME="lesson4_1 (1) 覆盖结果" MODIFIED="1774518579793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson4_1" />
     <SUITE FILE_PATH="coverage/$8dict.coverage" NAME="8字典dict 覆盖结果" MODIFIED="1676465009443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
     <SUITE FILE_PATH="coverage/python$accountDict.coverage" NAME="accountDict 覆盖结果" MODIFIED="1761478061753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验五" />
     <SUITE FILE_PATH="coverage/$aa.coverage" NAME="aa 覆盖结果" MODIFIED="1676102067232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9文件的操作" />
     <SUITE FILE_PATH="coverage/$module_new.coverage" NAME="module_new 覆盖结果" MODIFIED="1673012210971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
-    <SUITE FILE_PATH="coverage/$3python.coverage" NAME="3python模块 覆盖结果" MODIFIED="1672811105858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/python$wordCount.coverage" NAME="wordCount 覆盖结果" MODIFIED="1762263949597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验七" />
     <SUITE FILE_PATH="coverage/python$7.coverage" NAME="7必考 覆盖结果" MODIFIED="1765694686177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
-    <SUITE FILE_PATH="coverage/python$myFib.coverage" NAME="myFib 覆盖结果" MODIFIED="1764080168293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
-    <SUITE FILE_PATH="coverage/python$calSum.coverage" NAME="calSum 覆盖结果" MODIFIED="1764080237383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
-    <SUITE FILE_PATH="coverage/$my_module1__1_.coverage" NAME="my_module1 (1) 覆盖结果" MODIFIED="1672822525272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包/my_package" />
     <SUITE FILE_PATH="coverage/python$primes.coverage" NAME="primes 覆盖结果" MODIFIED="1764080281547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
-    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="2 覆盖结果" MODIFIED="1764077759581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$5.coverage" NAME="5类内置方法 覆盖结果" MODIFIED="1677246934560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/python$scoreDict.coverage" NAME="scoreDict 覆盖结果" MODIFIED="1761316587917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验五" />
+    <SUITE FILE_PATH="coverage/0_py$lesson6_1.coverage" NAME="lesson6_1 覆盖结果" MODIFIED="1775540433015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
     <SUITE FILE_PATH="coverage/$6_.coverage" NAME="6.单元案例 覆盖结果" MODIFIED="1673173406022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包" />
     <SUITE FILE_PATH="coverage/$my_module1.coverage" NAME="my_module1 覆盖结果" MODIFIED="1672805626277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/python$adminDict.coverage" NAME="adminDict 覆盖结果" MODIFIED="1761922269008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
     <SUITE FILE_PATH="coverage/$telnetensp.coverage" NAME="telnet登录ensp 覆盖结果" MODIFIED="1695776562639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网络工程" />
-    <SUITE FILE_PATH="coverage/python$soceStatistics.coverage" NAME="soceStatistics 覆盖结果" MODIFIED="1760970758992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验四" />
-    <SUITE FILE_PATH="coverage/$4.coverage" NAME="4构造方法 覆盖结果" MODIFIED="1677239436001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/$7for.coverage" NAME="7for变量作用域 覆盖结果" MODIFIED="1673165556405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5循环" />
-    <SUITE FILE_PATH="coverage/$a.coverage" NAME="a 覆盖结果" MODIFIED="1675677858770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
     <SUITE FILE_PATH="coverage/$1__1_.coverage" NAME="1类基础 (1) 覆盖结果" MODIFIED="1677060425519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/python$areaCompute.coverage" NAME="areaCompute 覆盖结果" MODIFIED="1759222567002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/0_py$lesson5_1.coverage" NAME="lesson5_1 覆盖结果" MODIFIED="1774962007968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson5_1" />
     <SUITE FILE_PATH="coverage/$3__1_.coverage" NAME="3类和对象 (1) 覆盖结果" MODIFIED="1677073976915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/python$ssh.coverage" NAME="ssh登录 覆盖结果" MODIFIED="1763090588081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
-    <SUITE FILE_PATH="coverage/$7.coverage" NAME="7继承 覆盖结果" MODIFIED="1677481563701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/python$tupleOeration.coverage" NAME="tupleOeration 覆盖结果" MODIFIED="1760970456822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验四" />
     <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 覆盖结果" MODIFIED="1765693405708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$sum15__1_.coverage" NAME="sum15 (1) 覆盖结果" MODIFIED="1761922211114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
     <SUITE FILE_PATH="coverage/python$starTri.coverage" NAME="starTri 覆盖结果" MODIFIED="1762263875843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验七" />
     <SUITE FILE_PATH="coverage/$5__1_.coverage" NAME="5疫情可视化 (1) 覆盖结果" MODIFIED="1676991074339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11可视化图表" />
-    <SUITE FILE_PATH="coverage/$1213.coverage" NAME="1213 覆盖结果" MODIFIED="1677055493688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11可视化图表" />
-    <SUITE FILE_PATH="coverage/$str_util.coverage" NAME="str_util 覆盖结果" MODIFIED="1673169718685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/my_utils" />
-    <SUITE FILE_PATH="coverage/python$scireLevel.coverage" NAME="scireLevel 覆盖结果" MODIFIED="1760443630018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
     <SUITE FILE_PATH="coverage/python$statisticAnalysis.coverage" NAME="statisticAnalysis 覆盖结果" MODIFIED="1759897865953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
-    <SUITE FILE_PATH="coverage/$10.coverage" NAME="10函数的类型注解 覆盖结果" MODIFIED="1679495488139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/python$scoreLevel.coverage" NAME="scoreLevel 覆盖结果" MODIFIED="1760081485807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 覆盖结果" MODIFIED="1680344030789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/$123.coverage" NAME="123 覆盖结果" MODIFIED="1676096177254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
-    <SUITE FILE_PATH="coverage/python$tempTran.coverage" NAME="tempTran 覆盖结果" MODIFIED="1759222529875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/$122.coverage" NAME="122 覆盖结果" MODIFIED="1702087866532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$module.coverage" NAME="module 覆盖结果" MODIFIED="1673012021858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
     <SUITE FILE_PATH="coverage/python$paramiko.coverage" NAME="paramiko 覆盖结果" MODIFIED="1763017895760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
-    <SUITE FILE_PATH="coverage/python$chickem100.coverage" NAME="chickem100 覆盖结果" MODIFIED="1761922160467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
     <SUITE FILE_PATH="coverage/$3.coverage" NAME="3函数作为参数传递加匿名函数 覆盖结果" MODIFIED="1676022953980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
-    <SUITE FILE_PATH="coverage/python$squareSum.coverage" NAME="squareSum 覆盖结果" MODIFIED="1760448228409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
-    <SUITE FILE_PATH="coverage/python$5.coverage" NAME="5 覆盖结果" MODIFIED="1765692461634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
     <SUITE FILE_PATH="coverage/python$print_num.coverage" NAME="print_num 覆盖结果" MODIFIED="1760446929859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
-    <SUITE FILE_PATH="coverage/$12.coverage" NAME="12 覆盖结果" MODIFIED="1703647042032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$1json.coverage" NAME="1json 覆盖结果" MODIFIED="1676464485834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
-    <SUITE FILE_PATH="coverage/python$mySqrt__1_.coverage" NAME="mySqrt (1) 覆盖结果" MODIFIED="1760443029303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
     <SUITE FILE_PATH="coverage/$11.coverage" NAME="11杨辉三角 覆盖结果" MODIFIED="1673165154495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
     <SUITE FILE_PATH="coverage/python$triType.coverage" NAME="triType 覆盖结果" MODIFIED="1760443642573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
-    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2类的定义和使用 覆盖结果" MODIFIED="1677066737596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/python$digitals.coverage" NAME="digitals 覆盖结果" MODIFIED="1759222730663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/python$sinDegree.coverage" NAME="sinDegree 覆盖结果" MODIFIED="1759221724970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/0_py$lesson2_1.coverage" NAME="lesson2_1 覆盖结果" MODIFIED="1773144144099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson2_1" />
     <SUITE FILE_PATH="coverage/python$teacher.coverage" NAME="teacher 覆盖结果" MODIFIED="1761922069359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
-    <SUITE FILE_PATH="coverage/python$nameCount__1_.coverage" NAME="nameCount (1) 覆盖结果" MODIFIED="1762263475399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/e9ee9d4e-dab7-48ef-9289-d9e12750078c_实验7.rar.78c" />
     <SUITE FILE_PATH="coverage/python$lesson1_2.coverage" NAME="lesson1_2 覆盖结果" MODIFIED="1772760964127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjfx" />
+    <SUITE FILE_PATH="coverage/0_py$lesson5_1_dou.coverage" NAME="lesson5_1_dou 覆盖结果" MODIFIED="1775042467478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson5_1" />
+    <SUITE FILE_PATH="coverage/python$chrTell.coverage" NAME="chrTell 覆盖结果" MODIFIED="1760443269367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
+    <SUITE FILE_PATH="coverage/python$1__1_.coverage" NAME="1 (1) 覆盖结果" MODIFIED="1766112906738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
+    <SUITE FILE_PATH="coverage/$4__1_.coverage" NAME="4构造方法及练习 (1) 覆盖结果" MODIFIED="1677244671309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/python$telnetensp.coverage" NAME="telnet登录ensp 覆盖结果" MODIFIED="1763014506354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
+    <SUITE FILE_PATH="coverage/0_py$lesson4_1.coverage" NAME="lesson4_1 覆盖结果" MODIFIED="1774329235567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="迭代器 覆盖结果" MODIFIED="1761661744222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
+    <SUITE FILE_PATH="coverage/python$sxh.coverage" NAME="sxh 覆盖结果" MODIFIED="1761922243171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
+    <SUITE FILE_PATH="coverage/$2pyecharts.coverage" NAME="2pyecharts模块 覆盖结果" MODIFIED="1676462248395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
+    <SUITE FILE_PATH="coverage/python$mul99.coverage" NAME="mul99 覆盖结果" MODIFIED="1761043496910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验三" />
+    <SUITE FILE_PATH="coverage/$6.coverage" NAME="6封装 覆盖结果" MODIFIED="1677470322520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/python$myFormat.coverage" NAME="myFormat 覆盖结果" MODIFIED="1762263806092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验七" />
+    <SUITE FILE_PATH="coverage/$5str.coverage" NAME="5str字符串及练习 覆盖结果" MODIFIED="1676464020758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
+    <SUITE FILE_PATH="coverage/$3python.coverage" NAME="3python模块 覆盖结果" MODIFIED="1672811105858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
+    <SUITE FILE_PATH="coverage/0_py$1.coverage" NAME="1 覆盖结果" MODIFIED="1774357956412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
+    <SUITE FILE_PATH="coverage/python$myFib.coverage" NAME="myFib 覆盖结果" MODIFIED="1764080168293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
+    <SUITE FILE_PATH="coverage/python$calSum.coverage" NAME="calSum 覆盖结果" MODIFIED="1764080237383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
+    <SUITE FILE_PATH="coverage/$my_module1__1_.coverage" NAME="my_module1 (1) 覆盖结果" MODIFIED="1672822525272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包/my_package" />
+    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="2 覆盖结果" MODIFIED="1764077759581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$5.coverage" NAME="5类内置方法 覆盖结果" MODIFIED="1677246934560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/python$scoreDict.coverage" NAME="scoreDict 覆盖结果" MODIFIED="1761316587917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验五" />
+    <SUITE FILE_PATH="coverage/python$soceStatistics.coverage" NAME="soceStatistics 覆盖结果" MODIFIED="1760970758992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验四" />
+    <SUITE FILE_PATH="coverage/$4.coverage" NAME="4构造方法 覆盖结果" MODIFIED="1677239436001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/$7for.coverage" NAME="7for变量作用域 覆盖结果" MODIFIED="1673165556405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5循环" />
+    <SUITE FILE_PATH="coverage/$a.coverage" NAME="a 覆盖结果" MODIFIED="1675677858770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
+    <SUITE FILE_PATH="coverage/python$areaCompute.coverage" NAME="areaCompute 覆盖结果" MODIFIED="1759222567002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/python$ssh.coverage" NAME="ssh登录 覆盖结果" MODIFIED="1763090588081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
+    <SUITE FILE_PATH="coverage/$7.coverage" NAME="7继承 覆盖结果" MODIFIED="1677481563701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/python$sum15__1_.coverage" NAME="sum15 (1) 覆盖结果" MODIFIED="1761922211114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
+    <SUITE FILE_PATH="coverage/0_py$lesson5_2__1_.coverage" NAME="lesson5_2 (1) 覆盖结果" MODIFIED="1775179647463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson5_2" />
+    <SUITE FILE_PATH="coverage/$1213.coverage" NAME="1213 覆盖结果" MODIFIED="1677055493688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11可视化图表" />
+    <SUITE FILE_PATH="coverage/$str_util.coverage" NAME="str_util 覆盖结果" MODIFIED="1673169718685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/my_utils" />
+    <SUITE FILE_PATH="coverage/0_py$2_1.coverage" NAME="实验2-1 覆盖结果" MODIFIED="1775209679088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
+    <SUITE FILE_PATH="coverage/python$scireLevel.coverage" NAME="scireLevel 覆盖结果" MODIFIED="1760443630018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
+    <SUITE FILE_PATH="coverage/0_py$lesson6_1__1_.coverage" NAME="lesson6_1 (1) 覆盖结果" MODIFIED="1775540466331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson6_1" />
+    <SUITE FILE_PATH="coverage/$10.coverage" NAME="10函数的类型注解 覆盖结果" MODIFIED="1679495488139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/python$scoreLevel.coverage" NAME="scoreLevel 覆盖结果" MODIFIED="1760081485807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$123.coverage" NAME="123 覆盖结果" MODIFIED="1676096177254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
+    <SUITE FILE_PATH="coverage/python$tempTran.coverage" NAME="tempTran 覆盖结果" MODIFIED="1759222529875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/$module.coverage" NAME="module 覆盖结果" MODIFIED="1673012021858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
+    <SUITE FILE_PATH="coverage/python$chickem100.coverage" NAME="chickem100 覆盖结果" MODIFIED="1761922160467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
+    <SUITE FILE_PATH="coverage/python$squareSum.coverage" NAME="squareSum 覆盖结果" MODIFIED="1760448228409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
+    <SUITE FILE_PATH="coverage/python$5.coverage" NAME="5 覆盖结果" MODIFIED="1765692461634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
+    <SUITE FILE_PATH="coverage/$12.coverage" NAME="12 覆盖结果" MODIFIED="1703647042032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$mySqrt__1_.coverage" NAME="mySqrt (1) 覆盖结果" MODIFIED="1760443029303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
+    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2类的定义和使用 覆盖结果" MODIFIED="1677066737596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/python$nameCount__1_.coverage" NAME="nameCount (1) 覆盖结果" MODIFIED="1762263475399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/e9ee9d4e-dab7-48ef-9289-d9e12750078c_实验7.rar.78c" />
   </component>
 </project>

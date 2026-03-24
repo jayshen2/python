@@ -27,7 +27,7 @@ cj = pd.DataFrame(stat3,index=['张三','李四',"王五"])
 print(cj)
 print("*"*50)
 
-#调整成绩
+#调整顺序
 df1 = pd.DataFrame(cj,columns=["数学","英语","语文",'班级'])
 print(df1)
 df1['英语'] = np.sqrt(df1["英语"])*10
@@ -46,9 +46,9 @@ print("*"*50)
 
 #等级制
 df3 = df2.copy()
-df3["数学"] = pd.cut(cj["数学"],bins=[0,60,75,85,100],labels=["不及格","及格","良好","优秀"])
-df3["语文"] = pd.cut(cj["语文"],bins=[0,60,75,85,100],labels=["不及格","及格","良好","优秀"])
-df3["英语"] = pd.cut(cj["英语"],bins=[0,60,75,85,100],labels=["不及格","及格","良好","优秀"])
+df3["数学等级"] = pd.cut(cj["数学"],bins=[0,60,75,85,100],labels=["不及格","及格","良好","优秀"])
+df3["语文等级"] = pd.cut(cj["语文"],bins=[0,60,75,85,100],labels=["不及格","及格","良好","优秀"])
+df3["英语等级"] = pd.cut(cj["英语"],bins=[0,60,75,85,100],labels=["不及格","及格","良好","优秀"])
 df3.loc["学科汇总","极差"] = None
 print(df3)
 print("*"*50)
@@ -58,3 +58,26 @@ df4 = df2.copy()
 df4 = df4.sort_values("成绩汇总",ascending=False)
 print(df4)
 print("*"*50)
+
+
+#统计次数并排序
+df_series = df3[["数学等级","英语等级","语文等级"]]
+count = df_series.melt()["value"].value_counts()
+print(count)
+
+#相关性和协方差
+x1 = cj[["数学","英语","语文"]]
+xgx = x1.corr()
+print(xgx)
+xfc = x1.cov()
+print(xfc)
+
+# 最高最低分名字
+cj1 = cj[["数学","英语","语文"]]
+print(cj1.idxmax())   #每列值最大的
+print(cj1.idxmin())
+
+# 删除李四和英语
+cj2 = cj[["数学","英语","语文"]]
+cj2 = cj2.drop(index="李四",columns='英语')
+print(cj2)
