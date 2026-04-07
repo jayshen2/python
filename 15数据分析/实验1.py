@@ -1,4 +1,5 @@
 import numpy as np
+
 arr1 = np.random.randn(3,5)
 arr2 = arr1*10
 arrFloat, arrInt = np.modf(arr2)

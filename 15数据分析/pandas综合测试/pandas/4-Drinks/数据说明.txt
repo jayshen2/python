@@ -1,0 +1,8 @@
+country  			国家
+beer servings   		啤酒服务
+spirit_servings		精神服务
+wine_servings		酒水服务
+total_litres_of_pure_alcohol	纯酒精总量
+
+
+continent			洲际

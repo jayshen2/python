@@ -14,6 +14,7 @@ df2 = pd.read_excel(r'data/data_test02.xlsx',
                    converters = {0:str,3:float})
 # converters制定列更改数据类型
 print(df2)
+print(df2.dtypes)
 
 cars = pd.read_csv(r'data/sec_cars.csv')
 print(cars.head())
@@ -26,6 +27,7 @@ print(cars.head())
 cars['差价'] = cars['New_price']-cars["Sec_price"]
 print(cars.head())
 del cars['New_price']
+#cars = cars.drop("New_price")
 
 
 # 描述性统计：统计变量最大，最小，均值，方差
@@ -47,7 +49,7 @@ cars.to_csv('data/out.csv',sep='&',index=False,header=False)
 df = pd.read_excel(r'data/data_test03.xlsx')
 print(df.head())
 print(df.dtypes)
-# pandas中关于时间类型的to——date_time
+# pandas中关于时间类型的to_datetime
 # birthday 转换为日期类型
 df["birthday"] = pd.to_datetime(df["birthday"],format = '%Y/%m/%d')
 print(df.dtypes)
@@ -59,8 +61,14 @@ df['工龄'] =pd.Timestamp.today().year - df['start_work'].dt.year
 print(df)
 
 # apply map 将电话中间四位转换为****
+# df['tel'] = df['tel'].apply(lambda x: str(x).replace(str(x)[3:7],'****'))
+df['tel'] = df['tel'].map(lambda x: str(x).replace(str(x)[3:7],'****'))
+print(df['tel'])
 # lambda def
-
 # 邮箱以@为界分离，提取邮箱名和域名
 str1 = "zhangsan@qq.com"
 print(df["email"].apply(lambda x:x.split("@")[1]))
+df['邮箱'] = df["email"].apply(lambda x:x.split("@")[0])
+print(df)
+# pandas部分函数有广播功能，自动扩展功能（isnull()）
+# 自定义函数没有扩展功能，需要通过代码应用到变量中所有的值---apply map

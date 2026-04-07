@@ -8,8 +8,7 @@ import pandas as pd
 # asis=  0或1 
 # 倒序排列 ascending = False
 df1 = pd.Series(np.arange(4),index=["c","b","a","d"])
-print(df1.sort_index()) #直接返回排序后
-print(df1.sort_index(axis=0)) #直接返回排序后
+print(df1.sort_index()) #对行索引进行排序
 
 df2 = pd.DataFrame(np.arange(18).reshape(3,6),index=["three","two","one"],columns=["d","c","a","b","f","e"])
 print(df2.sort_index(axis=0)) #对行索引排序（从小到大）

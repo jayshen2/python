@@ -1,0 +1,33 @@
+from os import write
+
+import requests
+import re
+
+headers = {
+    'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36',
+    'cookie':"BAIDUID=8979335DAFE66258AD3A3F2109ECBA39:FG=1; BDUSS=09hWX5VRnJsTC1McVhGVDhKRXoyM21JNWxCMDd-VTJCZy1PUDNtV0p3cWVoQWhwSVFBQUFBJCQAAAAAAAAAAAEAAAAsVZ32y~vWu86qy~3X7QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ734Gie9-Boa; BDUSS_BFESS=09hWX5VRnJsTC1McVhGVDhKRXoyM21JNWxCMDd-VTJCZy1PUDNtV0p3cWVoQWhwSVFBQUFBJCQAAAAAAAAAAAEAAAAsVZ32y~vWu86qy~3X7QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ734Gie9-Boa; BIDUPSID=8979335DAFE66258AD3A3F2109ECBA39; PSTM=1759681602; BAIDU_WISE_UID=wapp_1762580589248_65; BAIDUID_BFESS=8979335DAFE66258AD3A3F2109ECBA39:FG=1; ZFY=jeOrr4OMTc5IkZHuN:A2244yVHY6OOI2:ACDplAnvKqjg:C; MCITY=-%3A; __bid_n=19d432bd0d784323c8970f; H_PS_PSSID=63147_67861_68166_68265_68297_68380_68421_68447_68438_68543_68516_68624_68611_68666_68739_68896_68925_69001_69011_69019_69013_69024_69056_68553_69070_69037_69095_69089_69112_69127_69163_69183_69211_69242_69228_69239_69232_69234_69249; H_WISE_SIDS=68166_68421_68447_69001_69013_69070_69037_69163_69183_69242_69228_69239_69232_69234_69294_68779_69318_69251_69253_69255_69256_69258_68970_69085_69369_69417_69413_69422_69444_69435_69452_69488_69508_69559_69553_69591_69584_69642_69668_69665_69658; ab_sr=1.0.1_OTZhNmVkMTRlYzI1MGY4ZjgzZWY3YmIyYjgzNmQ5MDZkMDM5ZDVlYzE5NzhhMmViNTYyNDY2M2I0YjY0M2MzMDJmYjdhODY5MDM1NTU2YzIwMGMzZWQyNzY0NDdjMGMyMWEzNjRlZWZlNDE4YTdjN2UzYzU4NzkwNTc4Nzk3NmU4OGU1YzA3ODAzOTgzODNhMzA0ZTY4YTUyMzMxMjE4Yw==",
+}
+url = "https://image.baidu.com/search/flip?tn=baiduimage&ie=utf-8&word=%E8%AF%9A%E6%AF%85%E5%AD%A6%E9%99%A2"
+
+response = requests.get(url, headers=headers)
+content = response.content.decode('utf-8')
+# 获取的是网页源代码
+# 获取的页面没有图片 # 检查网页又可以找到对应的图片链接
+pic_url = re.findall(r'"objURL":"(.*?)"', content,re.DOTALL)
+
+i = 1
+for p_url in pic_url:
+    response = requests.get(p_url, headers=headers)
+    content = response.content
+    if p_url[-3:] == "jpg":
+        with open('{}.jpg'.format(i), 'wb') as f:
+            f.write(content)
+    elif p_url[-3:] == "png":
+        with open('{}.png'.format(i), 'wb') as f:
+            f.write(content)
+    elif p_url[-3:] == "jpeg":
+        with open('{}.jpg'.format(i), 'wb') as f:
+            f.write(content)
+    else:
+        continue
+    i += 1

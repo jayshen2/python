@@ -8,9 +8,9 @@ s2 = pd.Series([-2.1, 3.6, -1.5, 4, 3.1], index=['a', 'c', 'e', 'f', 'g'])
 print(s1+s2)
 
 df1 = pd.DataFrame(np.arange(9.).reshape((3, 3)), columns=list('bcd'),  index=['Ohio', 'Texas', 'Colorado'])
-# list("str")把每个字符串拆分？》》》》
+# list("str")把每个字符串拆分？
 df2 = pd.DataFrame(np.arange(12.).reshape((4, 3)), columns=list('bde'), index=['Utah', 'Ohio', 'Texas', 'Oregon'])
-# 数据框数据框 所有的index和columns允许运算；用一个index完成运算，不存在的index返回a
+# 数据框数据框 所有的index和columns允许运算；用一个index完成运算，不存在的index返回NaN
 print(df1+df2)
 # df1.add(df2)  #效果和+相同，
 print(df1.add(df2,fill_value=0))

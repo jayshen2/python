@@ -15,7 +15,5 @@ r = requests.get(url,headers=headers,proxies=proxies)
 r = requests.get(url,headers=headers,proxies=proxies,timeout=10) #r已经
 content = r.content.decode('utf-8')
 #print(r.text) #r.text自动判断网页的编码格式，会导致部 分网页获取html时变成乱码
-print(content)
-print(r.status_code)
 
 #豆瓣案例
