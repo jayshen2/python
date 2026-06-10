@@ -50,6 +50,7 @@ for page in detail_urls:
                     f.write(content)
             else :
                 print(f"第{i}张图片爬取错误")
+                i += 1
                 continue
             print(f"第{i}张图片爬取成功")
             i += 1

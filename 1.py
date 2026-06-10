@@ -1,9 +1,15 @@
-import pandas as pd
-import numpy as np
+import re
+html_text = """ 
+<div class="poem"> 
+<h2>静夜思</h2><p class="author">李白</p> 
+<div class="content">床前明月光<br/>疑是地上霜</div> 
+</div> 
+"""
 
-frame = pd.DataFrame({'b':[4,1,-5,2],"a":[3,2,3.4,1],'c':[-2,2,1,4]})
-print(frame)
-# 默认是axis = 0 遍历所有行位置，列不变
-frame.rank(method="min")
-print(frame.rank(method="min"))
-print(pd.Timestamp.today().year)
+bt = re.findall(r"<h2>(.*?)</h2>",html_text)
+zz = re.findall(r"<p.*?>(.*?)</p>",html_text)
+zw = re.findall(r'<div class="content">(.*?)</div>',html_text)[0]
+zw_new = re.sub(r'<br/>',"\n",zw)
+print(bt)
+print(zz)
+print(zw_new)

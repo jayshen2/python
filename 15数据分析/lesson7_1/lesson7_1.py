@@ -50,8 +50,8 @@ print(frame1.loc["a",:].loc[2,:].loc["Ohio",:]["Red"])
 # 数据透视表的索引需要一级一级往下完成索引
 
 print(frame1)
-# swaplevel(i,j,k) 先按i进行排序，在对j进行排序  swaplevel中index出现的顺序进行依次的排序
-# 排序：字符串字典序 数值从小到大  不会对原始数据进行覆盖
+# swaplevel(i,j) 交换i，j索引的位置
+# 不会对原始数据进行覆盖
 print(frame1.swaplevel("class","number"))
 print(frame1)
 

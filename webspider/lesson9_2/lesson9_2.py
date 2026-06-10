@@ -18,7 +18,7 @@ content = response.content
 
 # 保存数据
 # wb w:write b:二级制的字节数据
-with open("../test.jpg", 'wb') as f: # 把读取的数据按照二级制bytes流数据写到本地0
+with open("13test.jpg", 'wb') as f: # 把读取的数据按照二级制bytes流数据写到本地0
     f.write(content)
 
     

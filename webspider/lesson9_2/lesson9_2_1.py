@@ -25,8 +25,8 @@ for p_url in pic_url:
     elif p_url[-3:] == "png":
         with open('{}.png'.format(i), 'wb') as f:
             f.write(content)
-    elif p_url[-3:] == "jpeg":
-        with open('{}.jpg'.format(i), 'wb') as f:
+    elif p_url[-4:] == "jpeg":
+        with open('{}.jpeg'.format(i), 'wb') as f:
             f.write(content)
     else:
         continue

@@ -2,19 +2,22 @@ import pandas as pd
 import numpy as np
 
 df = pd.read_excel("超市销售数据.xlsx")
-print(df.head())
+print(df)
 print(df.dtypes)
 # 题目 1：复杂读取与多层筛查
 # 要求：
 # 1.	读取 Excel，并删除所有全为空的行。
 df = df.dropna(how='all')
+
 # 2.	把所有中文字段前后的空格、不可见字符全部清除。
 str_cols = ['省份','城市','商品类别','支付方式']
 for col in str_cols:
     df[col] = df[col].astype(str).str.strip()
+
 # 3.	将 'nan'、'None'、'无' 统一替换为缺失值 NaN。
 df = df.replace(['nan','None','无'],np.nan)
-# 4.	只保留 销售额 > 0 且 销量≥1 且 省份不为空 的记录。
+
+# 4.	只保留 销售额 > 0 且 销量 ≥ 1 且 省份不为空 的记录。
 df = df[(df['销售额']>0) & (df['销量']>=1) & (df['省份'].notna())]
 print(df.head(15))
 
@@ -34,12 +37,13 @@ for prov in (df['省份'].dropna().unique()):
 df['月份'] = pd.to_datetime(df['日期']).dt.month
 # 取出对应的分组【取出的列。做对应变换
 df['商品类别'] = df.groupby(['省份','月份'])['商品类别'].transform(lambda x: x.fillna(x.mode()[0]))
-print(df.head(20))
 
 # 3.	销售额缺失：按「商品类别 + 支付方式」分组均值填充。
-df['销售额'] = df.groupby(['商品类别','支付方式'])['销售额'].transform(lambda x: x.fillna(x.mode()))
+df['销售额'] = df.groupby(['商品类别','支付方式'],dropna=False)['销售额'].transform(lambda x: x.fillna(x.mean()))
+
 # 4.	销量缺失：按「省份 + 城市」分组中位数填充。
-#
+df['销量'] =  df.groupby(['省份','城市'])['销量'].transform(lambda x: x.fillna(x.median()))
+
 # 题目 3：重复数据的智能去重
 # 要求：
 # 1.	删除完全重复行。
@@ -63,6 +67,7 @@ for lb in df['商品类别'].unique():
     # 分位数：某组数据从小到大排序在n位置上的数
     Q95 = df[df['商品类别'] == lb]['销售额'].quantile(0.95)
     df.loc[(df['商品类别'] == lb) & (df['销售额'] > 50000),'销售额'] = Q95
+
 # 3.	销量 > 200 的，强制设为 200。
 df.loc[df['销量'] > 200, '销量'] = 200
 
@@ -74,13 +79,23 @@ df = df[df['日期'].dt.year ==2023]
 df['年份'] = df['日期'].dt.year
 df['月份'] = df['日期'].dt.month
 df['季度'] = df['日期'].dt.quarter
+
 # 2.	新增字段：客单价 = 销售额 / 销量（保留 2 位小数）。
+df['客单价'] = (df['销售额'] / df['销量']).round(2)
+
 # 3.	新增字段：销售规模，规则：
 # o	销售额 ≥ 10000 → ‘大额’
 # o	3000 ≤ 销售额 < 10000 → ‘中额’
 # o	其他 → ‘小额’
+df.loc[df['销售额'] >10000,'销售规模'] = "大额"
+df.loc[(df['销售额'] <10000) & (df['销售额'] > 3000),'销售规模'] = "中额"
+df.loc[df['销售额'] < 3000,'销售规模'] = "小额"
+
+
 # 4.	将「商品类别」中的 “零食”“ 零食” 等不规范值统一为 “零食”，同理规整所有类别。
-#
+df['商品类别'] = df['商品类别'].fillna('零食')
+
+
 # 题目 6：多层分组 + 多指标聚合（综合统计）
 # 要求：
 # 按 省份 + 季度 + 商品类别 分组，统计：
@@ -89,7 +104,20 @@ df['季度'] = df['日期'].dt.quarter
 # 3.	订单数：计数
 # 4.	客单价：平均客单价
 # 结果保留 2 位小数。
-#
+df['季度'] = df['日期'].dt.quarter
+result = df.groupby(['省份', '季度', '商品类别']).agg(
+    总金额=('销售额', 'sum'),
+    平均销售额=('销售额', 'mean'),
+    最高销售额=('销售额', 'max'),
+    最低销售额=('销售额', 'min'),
+    总销量=('销量', 'sum'),
+    平均销量=('销量', 'mean'),
+    订单数=('销售额', 'count'),
+    平均客单价=('客单价', 'mean')
+)
+result = result.round(2).reset_index()
+print(result)
+
 # 题目 7：透视表 + 多层索引（必考难点）
 # 要求：
 # 1.	做透视表：
@@ -97,10 +125,23 @@ df['季度'] = df['日期'].dt.quarter
 # o	列 = 季度
 # o	值 = 销售额
 # o	聚合 = 求和
-# 2.	将透视表stack 转为层次化 Series。
-# 3.	再 unstack 恢复，并计算每个省份季度环比增长率。
+
+
 # 4.	缺失的环比值填 0。
-#
+tsb = df.pivot_table(values = '销售额',columns = '季度',index='省份',aggfunc = sum)
+print(tsb)
+
+# 2.	将透视表stack 转为层次化 Series。
+tsb = tsb.stack()
+print(tsb)
+
+# 3.	再 unstack 恢复，并计算每个省份季度环比增长率。
+tsb = tsb.unstack()
+tsb['Q2'] = (tsb[2]-tsb[1])/tsb[1]
+tsb['Q3'] = (tsb[3]-tsb[2])/tsb[2]
+tsb['Q4'] = (tsb[4]-tsb[3])/tsb[3]
+print(tsb)
+
 # 题目 8：条件筛选 + 布尔索引（复杂逻辑）
 # 要求：
 # 筛选出满足全部以下条件的数据：
@@ -109,7 +150,13 @@ df['季度'] = df['日期'].dt.quarter
 # 3.	商品类别为 “零食” 或 “生鲜”
 # 4.	销售额 > 该城市平均销售额
 # 5.	销量 > 该类别中位数销量
-#
+
+df['城市平均销售额'] = df.groupby('城市')['销售额'].transform('mean')
+df['类别中位数销量'] = df.groupby('商品类别')['销量'].transform('median')
+sf = df.loc[(df['省份']=='福建省') | (df['省份']=='广东省'),].loc[(df['季度']==2) | (df['季度'] == 3 ),].loc[(df['商品类别'] == '零食') |(df['商品类别'] == '生鲜')]
+sf = sf.loc[(sf['销售额']>sf['城市平均销售额'])].loc[(sf['销量']>sf['类别中位数销量'])]
+print(sf)
+
 # 题目 9：数据规整（宽表 ↔ 长表 互转 + 合并）
 # 要求：
 # 1.	构建一个宽表：
@@ -119,7 +166,24 @@ df['季度'] = df['日期'].dt.quarter
 # 2.	将宽表转为长表（melt）。
 # 3.	再将长表与「省份总销量表」按省份合并（左连接）。
 # 4.	最后计算「当月销售额占省份总销量比例」。
-#
+df_total_sales = df.groupby('省份')['销量'].sum().reset_index().rename(columns={'销量': '省份总销量'})
+wide_df = df.pivot_table(
+    index= '省份',
+    columns = '月份',
+    values = '销售额',
+    aggfunc = sum,
+)
+wide_df = wide_df.reset_index()
+long_df = wide_df.melt(
+    id_vars='省份',
+    var_name='月份',
+    value_name='当月销售额总和'
+)
+print(long_df.head(4))
+merge_df = long_df.merge(df_total_sales,on='省份', how='left')
+merge_df['当月销售额占省份总销量比例'] = merge_df['当月销售额总和'] / merge_df['省份总销量']
+print(merge_df)
+
 # 题目 10：最终输出标准化文件
 # 要求：
 # 1.	只保留以下字段：
@@ -129,3 +193,6 @@ df['季度'] = df['日期'].dt.quarter
 # o	不带索引
 # o	编码 utf-8
 # o	小数统一 2 位
+df = df[['省份','城市','日期','季度','商品类别','销售额','销量','客单价','销售规模','支付方式']].sort_values(['日期','销售额'],ascending= False)
+df = df.round(2)
+df.to_excel(' 清洗完成版_最终版.xlsx',index = False)

@@ -31,7 +31,6 @@ all_movie_comments = []
 for i,url in enumerate(movie_detail_url):
     try:
         comment = ''
-        print(url)
         response = requests.get(url,headers=headers)
         content = response.content.decode("utf8")
         html = etree.HTML(content)

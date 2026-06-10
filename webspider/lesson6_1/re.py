@@ -144,3 +144,7 @@ search
 
 # text = "python123.com.cn"
 # print(re.search("com$",text))
+
+text = "a_9python"
+print(re.match("[a-z_][\w]{2,4}", text).group())
+

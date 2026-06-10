@@ -8,304 +8,256 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14b6eafb-be03-4d0f-a2e1-6ee6433a0a64" name="变更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/HuRun.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/data_test01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/data_test02.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/data_test03.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/data_test04.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/data_test05.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/diamonds.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/out.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/sec_cars.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/data/sunspots.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/def作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/lesson6_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/1-Name/name_data(直接复制到python).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/1-Name/探索虚拟姓名数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/2-Iris/iris.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/2-Iris/探索Iris纸鸢花数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/3-Euro2012/Euro2012.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/3-Euro2012/探索2012欧洲杯数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/4-Drinks/drinks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/4-Drinks/探索酒类消费数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/4-Drinks/数据说明.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/5-Chipotle/探索Chipotle快餐数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas/5-Chipotle/数据说明.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/pandas_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson6_2/sy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson7_1/lesson7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson8_1/lesson8_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson8_2/lesson8_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson9_1/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson9_1/lesson9_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson9_1/超市销售数据.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/lesson9_1/题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/Iris.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/chipo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/euro12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/1-Name/name_data(直接复制到python).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/1-Name/探索虚拟姓名数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/2-Iris/iris.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/2-Iris/探索Iris纸鸢花数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/3-Euro2012/Euro2012.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/3-Euro2012/探索2012欧洲杯数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/4-Drinks/drinks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/4-Drinks/探索酒类消费数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/4-Drinks/数据说明.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/5-Chipotle/chipotle.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/5-Chipotle/探索Chipotle快餐数据 - 题目.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15数据分析/pandas综合测试/pandas/5-Chipotle/数据说明.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/101.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/104.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/105.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/106.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/107.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/108.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/113.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/114.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/115.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/116.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/117.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/118.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/119.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/120.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/122.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/124.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/125.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/126.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/127.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/129.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/130.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/132.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/133.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/134.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/135.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/136.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/137.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/138.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/139.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/141.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/142.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/143.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/144.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/145.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/146.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/147.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/148.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/149.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/151.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/152.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/153.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/154.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/156.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/157.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/158.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/159.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/160.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/161.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/162.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/163.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/164.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/165.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/166.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/167.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/168.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/169.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/170.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/171.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/172.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/173.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/174.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/175.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/176.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/178.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/179.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/181.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/182.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/60.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/61.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/62.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/63.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/64.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/65.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/66.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/67.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/68.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/69.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/70.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/71.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/72.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/73.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/74.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/76.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/77.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/78.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/79.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/80.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/81.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/82.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/83.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/84.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/85.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/86.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/87.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/88.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/89.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/90.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/91.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/92.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/93.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/94.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/95.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/96.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/97.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/98.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/99.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson10_1/lesson10_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson6_1/re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson7_1/lesson7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson8_1/lesson8_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson8_2/lesson8_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson8_2/sina_re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/lesson9_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webspider/正则表达式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/考试/Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/Dagum 基尼系数及空间差异.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/Data_score_Final.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/Regional_Average_Score.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/三维核密度估计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/典型地区时空压力指标计算.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/图2_七大区域演变折线图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/图3_大区对比雷达图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/图5_3DKDE演进图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/论文/地区评分计算及分析图表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/HuRun.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/Industry_GDP.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/Prod_Trade.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/Province GDP 2017.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/Sales.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/SuperMarket.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/diamonds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/sec_buildings.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/tips.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/weather.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/data/wechat.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson11_1/lesson11_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson11_1/stock_px.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/lesson11_1/tips.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/case1-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/case10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/case3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/case4-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/case6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/HuRun.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/Industry_GDP.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/Prod_Trade.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/Province GDP 2017.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/Sales.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/SuperMarket.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/diamonds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/sec_buildings.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/tips.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/weather.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/可视化/data/wechat.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/聚合/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/聚合/book_sale1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15数据分析/试卷/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson11_1/lesson11_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson11_1/selenium_teneent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson11_2/2[考].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson11_2/lesson11_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson11_2/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson12_1/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson12_1/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson12_1/baidu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson12_1/baidu_input.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson12_1/lesson12_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson12_2/cjb_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson12_2/成绩表.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson3_1 xpath语法/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webspider/lesson9_2/13test.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15数据分析/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15数据分析/lesson3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15数据分析/lesson4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson4_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15数据分析/lesson5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson5_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15数据分析/lesson6_1/lesson6_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson6_1/lesson6_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15数据分析/实验1.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/实验1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15数据分析/lesson7_1/lesson7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson7_1/lesson7_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15数据分析/lesson9_1/lesson9_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson9_1/lesson9_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15数据分析/lesson9_1/题目.docx" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson9_1/题目.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/173.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson10_1/lesson10_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson10_1/lesson10_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webspider/lesson2_1/lesson2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson2_1/lesson2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson2_2/lesson2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson10_1/lesson10_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson3_1/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson3_1/lesson3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson3_1 xpath语法/lesson3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson3_1/实验1.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson3_1 xpath语法/实验1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson5_1/lesson5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson5_1/lesson5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson5_1/数据2571_29_郭沅森.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/webspider/lesson5_2/lesson5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson5_2/lesson5_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一/areaCompute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一/digitals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一/sinDegree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一/statisticAnalysis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一/tempTran.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验七/myFormat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验七/nameCount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验七/starTri.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验七/wordCount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验三/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验三/cuo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验三/guess_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验三/mul99.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验三/nosLetters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验三/print_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验三/squareSum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验二/chrTell.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验二/mySqrt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验二/scireLevel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验二/triType.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验五/accountDict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验五/myDict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验五/scoreDict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验八/calSum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验八/myFib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验八/piecewise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验八/primes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验八/reg_polygon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验六/adminDict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验六/chickem100.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验六/sum15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验六/sxh.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验六/teacher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验四/dateStr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验四/listOperation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验四/soceStatistics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验四/tupleOeration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson6_1/re.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson6_1/re.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson7_1/lesson7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/15数据分析/lesson10_2/lesson10_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson9_2/lesson9_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson9_2/lesson9_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webspider/lesson9_2/lesson9_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/webspider/lesson9_2/lesson9_2_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,6 +268,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -351,9 +304,13 @@
     <setting file="file://$PROJECT_DIR$/15数据分析/pandas综合测试/chipo.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/15数据分析/pandas综合测试/drink.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/15数据分析/pandas综合测试/euro12.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/webspider/lesson11_2/2[考].py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/考试/6.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/考试/7必考.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../wxltjl/xwechat_files/wxid_qsi4vind2x6222_6e50/msg/file/2026-04/031 欧洲杯.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../wxltjl/xwechat_files/wxid_qsi4vind2x6222_6e50/msg/file/2026-05/1.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../wxltjl/xwechat_files/wxid_qsi4vind2x6222_6e50/msg/file/2026-05/temp(1).py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../wxltjl/xwechat_files/wxid_qsi4vind2x6222_6e50/msg/file/2026-05/temp(2).py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -374,14 +331,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript 调试.medical_resources_map.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript 调试.全国疫情地图.html.executor&quot;: &quot;Run&quot;,
     &quot;Python.031 欧洲杯.executor&quot;: &quot;Run&quot;,
+    &quot;Python.032_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.12.executor&quot;: &quot;Run&quot;,
     &quot;Python.1文件的读取.executor&quot;: &quot;Run&quot;,
     &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2[考].executor&quot;: &quot;Run&quot;,
     &quot;Python.5.executor&quot;: &quot;Run&quot;,
     &quot;Python.5疫情可视化.executor&quot;: &quot;Run&quot;,
     &quot;Python.6.executor&quot;: &quot;Run&quot;,
@@ -392,10 +352,19 @@
     &quot;Python.accountDict.executor&quot;: &quot;Run&quot;,
     &quot;Python.adminDict.executor&quot;: &quot;Run&quot;,
     &quot;Python.areaCompute.executor&quot;: &quot;Run&quot;,
+    &quot;Python.baidu_selenium.executor&quot;: &quot;Run&quot;,
     &quot;Python.calSum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.case1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.case1-2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.case1-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.case10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.case3-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.case4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.case6.executor&quot;: &quot;Run&quot;,
     &quot;Python.chickem100.executor&quot;: &quot;Run&quot;,
     &quot;Python.chipo.executor&quot;: &quot;Run&quot;,
     &quot;Python.chrTell.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cjb_csv.executor&quot;: &quot;Run&quot;,
     &quot;Python.cuo.executor&quot;: &quot;Run&quot;,
     &quot;Python.dateStr.executor&quot;: &quot;Run&quot;,
     &quot;Python.def作业.executor&quot;: &quot;Run&quot;,
@@ -405,9 +374,15 @@
     &quot;Python.guess_num.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesso4_2_sina.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson10_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson10_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson11_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson11_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson11_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson12_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson1_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson2_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson3_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson4_1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson4_1.executor&quot;: &quot;Run&quot;,
@@ -426,6 +401,7 @@
     &quot;Python.lesson9_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson9_2_1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson9_2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lx.executor&quot;: &quot;Run&quot;,
     &quot;Python.mul99.executor&quot;: &quot;Run&quot;,
     &quot;Python.myDict.executor&quot;: &quot;Run&quot;,
     &quot;Python.myFib.executor&quot;: &quot;Run&quot;,
@@ -446,7 +422,10 @@
     &quot;Python.scireLevel.executor&quot;: &quot;Debug&quot;,
     &quot;Python.scoreDict.executor&quot;: &quot;Run&quot;,
     &quot;Python.scoreLevel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_teneent.executor&quot;: &quot;Run&quot;,
     &quot;Python.sinDegree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sina_csv (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.sina_csv.executor&quot;: &quot;Run&quot;,
     &quot;Python.sina_re.executor&quot;: &quot;Run&quot;,
     &quot;Python.soceStatistics.executor&quot;: &quot;Run&quot;,
     &quot;Python.squareSum.executor&quot;: &quot;Run&quot;,
@@ -458,12 +437,15 @@
     &quot;Python.sy.executor&quot;: &quot;Run&quot;,
     &quot;Python.teacher.executor&quot;: &quot;Run&quot;,
     &quot;Python.telnet登录ensp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp(2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp(3).executor&quot;: &quot;Run&quot;,
     &quot;Python.tempTran.executor&quot;: &quot;Run&quot;,
     &quot;Python.triType.executor&quot;: &quot;Run&quot;,
     &quot;Python.tupleOeration.executor&quot;: &quot;Run&quot;,
     &quot;Python.wordCount.executor&quot;: &quot;Run&quot;,
     &quot;Python.三维核密度估计.executor&quot;: &quot;Run&quot;,
     &quot;Python.典型地区时空压力指标计算.executor&quot;: &quot;Run&quot;,
+    &quot;Python.实验1.executor&quot;: &quot;Run&quot;,
     &quot;Python.实验2-1.executor&quot;: &quot;Run&quot;,
     &quot;Python.时空演进与短板分析图表.executor&quot;: &quot;Run&quot;,
     &quot;Python.正则表达式.executor&quot;: &quot;Run&quot;,
@@ -481,7 +463,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python/15数据分析/pandas综合测试/pandas/5-Chipotle&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -513,11 +495,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python\15数据分析\pandas综合测试\pandas\5-Chipotle" />
-      <recent name="D:\python\15数据分析\lesson6_2\pandas\5-Chipotle" />
-      <recent name="D:\python\15数据分析\pandas综合测试" />
-      <recent name="D:\python\论文" />
-      <recent name="D:\python\考试" />
+      <recent name="D:\python\15数据分析\聚合" />
+      <recent name="D:\python\15数据分析\lesson12_1" />
+      <recent name="D:\python\15数据分析\lesson11_1" />
+      <recent name="D:\python\15数据分析\可视化" />
+      <recent name="D:\python\webspider\lesson11_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python\webspider\lesson_9_2" />
@@ -527,14 +509,14 @@
       <recent name="D:\python\15数据分析\lesson6_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.正则表达式">
+  <component name="RunManager" selected="Python.lesson2_1">
     <configuration name="render.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/工程/可视化图表/render.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="render.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/工程/可视化图表/render.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="正则表达式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -543,14 +525,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webspider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webspider/lesson2_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webspider/正则表达式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webspider/lesson2_1/lesson2_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -559,7 +541,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -568,14 +550,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webspider/lesson3_1 xpath语法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webspider/lesson3_1 xpath语法/lesson3_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -584,7 +566,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="三维核密度估计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson8_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -593,14 +575,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/论文" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webspider/lesson8_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/论文/三维核密度估计.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webspider/lesson8_2/lesson8_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -609,7 +591,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson6_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="re" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -618,14 +600,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15数据分析/lesson6_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webspider/lesson6_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15数据分析/lesson6_1/lesson6_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webspider/lesson6_1/re.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -634,7 +616,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson6_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sina_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -643,39 +625,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15数据分析/lesson6_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webspider/lesson12_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15数据分析/lesson6_2/lesson6_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson9_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="工程" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15数据分析/lesson9_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15数据分析/lesson9_1/lesson9_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webspider/lesson12_2/sina_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -686,19 +643,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.正则表达式" />
-        <item itemvalue="Python.lesson6_2" />
-        <item itemvalue="Python.lesson9_1" />
-        <item itemvalue="Python.1 (1)" />
-        <item itemvalue="Python.lesson6_1" />
+        <item itemvalue="Python.lesson2_1" />
+        <item itemvalue="Python.lesson8_2" />
+        <item itemvalue="Python.re" />
+        <item itemvalue="Python.lesson3_1" />
+        <item itemvalue="Python.sina_csv" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.23567.174" />
-        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -943,7 +900,43 @@
       <workItem from="1778248950062" duration="3922000" />
       <workItem from="1778315474957" duration="1532000" />
       <workItem from="1778317474944" duration="2736000" />
-      <workItem from="1778324056806" duration="5366000" />
+      <workItem from="1778324056806" duration="8083000" />
+      <workItem from="1778398727419" duration="9113000" />
+      <workItem from="1778501143997" duration="52000" />
+      <workItem from="1778512945664" duration="931000" />
+      <workItem from="1778574048686" duration="11063000" />
+      <workItem from="1778652287255" duration="5486000" />
+      <workItem from="1778670201866" duration="3090000" />
+      <workItem from="1778802708544" duration="6050000" />
+      <workItem from="1778932756885" duration="10785000" />
+      <workItem from="1779000300016" duration="8884000" />
+      <workItem from="1779187914940" duration="694000" />
+      <workItem from="1779188654113" duration="2768000" />
+      <workItem from="1779191727491" duration="5213000" />
+      <workItem from="1779245464539" duration="867000" />
+      <workItem from="1779258586479" duration="2832000" />
+      <workItem from="1779262535915" duration="5744000" />
+      <workItem from="1779278322185" duration="3368000" />
+      <workItem from="1779408369391" duration="5077000" />
+      <workItem from="1779414475692" duration="11630000" />
+      <workItem from="1779435564134" duration="715000" />
+      <workItem from="1779792595029" duration="1532000" />
+      <workItem from="1779881603911" duration="3283000" />
+      <workItem from="1780013971280" duration="7921000" />
+      <workItem from="1780312777988" duration="5546000" />
+      <workItem from="1780397149631" duration="8946000" />
+      <workItem from="1780486039913" duration="2780000" />
+      <workItem from="1780620304412" duration="6616000" />
+      <workItem from="1780665852682" duration="3796000" />
+      <workItem from="1780669688648" duration="1212000" />
+      <workItem from="1780717959617" duration="6964000" />
+      <workItem from="1780730179875" duration="6896000" />
+      <workItem from="1780921823673" duration="24000" />
+      <workItem from="1780921865893" duration="41000" />
+      <workItem from="1780921980339" duration="95000" />
+      <workItem from="1780922106150" duration="59000" />
+      <workItem from="1780922174627" duration="9518000" />
+      <workItem from="1781014043327" duration="3732000" />
     </task>
     <task id="LOCAL-00046" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1672681927668</created>
@@ -1288,7 +1281,7 @@
       <option name="project" value="LOCAL" />
       <updated>1677071126870</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1335,8 +1328,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$telnetensp.coverage" NAME="telnet登录ensp 覆盖结果" MODIFIED="1763014506354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
-    <SUITE FILE_PATH="coverage/$input.coverage" NAME="input语句 覆盖结果" MODIFIED="1677244272797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3input语句及练习" />
+    <SUITE FILE_PATH="coverage/0_py$lesson3_1.coverage" NAME="lesson3_1 覆盖结果" MODIFIED="1781014893822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson3_1 xpath语法" />
     <SUITE FILE_PATH="coverage/0_py$2_1.coverage" NAME="实验2-1 覆盖结果" MODIFIED="1775209679088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
+    <SUITE FILE_PATH="coverage/$input.coverage" NAME="input语句 覆盖结果" MODIFIED="1677244272797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3input语句及练习" />
     <SUITE FILE_PATH="coverage/python$soceStatistics.coverage" NAME="soceStatistics 覆盖结果" MODIFIED="1760970758992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验四" />
     <SUITE FILE_PATH="coverage/$1213.coverage" NAME="1213 覆盖结果" MODIFIED="1677055493688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11可视化图表" />
     <SUITE FILE_PATH="coverage/python$lesson1_2.coverage" NAME="lesson1_2 覆盖结果" MODIFIED="1772760964127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjfx" />
@@ -1348,23 +1342,27 @@
     <SUITE FILE_PATH="coverage/$6__1_.coverage" NAME="6封装及练习 (1) 覆盖结果" MODIFIED="1677473387657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/$module.coverage" NAME="module 覆盖结果" MODIFIED="1673012021858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
     <SUITE FILE_PATH="coverage/python$print_num.coverage" NAME="print_num 覆盖结果" MODIFIED="1760446929859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
+    <SUITE FILE_PATH="coverage/0_py$case3_4.coverage" NAME="case3-4 覆盖结果" MODIFIED="1778939324071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/可视化" />
     <SUITE FILE_PATH="coverage/python$triType.coverage" NAME="triType 覆盖结果" MODIFIED="1760443642573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
     <SUITE FILE_PATH="coverage/$7.coverage" NAME="7继承 覆盖结果" MODIFIED="1677481563701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
-    <SUITE FILE_PATH="coverage/0_py$lesson9_1.coverage" NAME="lesson9_1 覆盖结果" MODIFIED="1778315782030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson9_1" />
+    <SUITE FILE_PATH="coverage/0_py$case1__1_.coverage" NAME="case1 (1) 覆盖结果" MODIFIED="1778937780943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/可视化" />
+    <SUITE FILE_PATH="coverage/0_py$lesson9_1.coverage" NAME="lesson9_1 覆盖结果" MODIFIED="1779261363984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson9_1" />
     <SUITE FILE_PATH="coverage/python$ssh.coverage" NAME="ssh登录 覆盖结果" MODIFIED="1763090588081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
-    <SUITE FILE_PATH="coverage/python$piecewise.coverage" NAME="piecewise 覆盖结果" MODIFIED="1764080277008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
     <SUITE FILE_PATH="coverage/0_py$5.coverage" NAME="5疫情可视化 覆盖结果" MODIFIED="1775178731965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11可视化图表" />
+    <SUITE FILE_PATH="coverage/python$piecewise.coverage" NAME="piecewise 覆盖结果" MODIFIED="1764080277008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
     <SUITE FILE_PATH="coverage/0_py$lesson6_1.coverage" NAME="lesson6_1 覆盖结果" MODIFIED="1778249133607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson6_1" />
+    <SUITE FILE_PATH="coverage/0_py$temp_2_.coverage" NAME="temp(2) 覆盖结果" MODIFIED="1779246158424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wxltjl/xwechat_files/wxid_qsi4vind2x6222_6e50/msg/file/2026-05" />
     <SUITE FILE_PATH="coverage/python$5.coverage" NAME="5 覆盖结果" MODIFIED="1765692461634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
-    <SUITE FILE_PATH="coverage/0_py$lesson10_1.coverage" NAME="lesson10_1 覆盖结果" MODIFIED="1778070129687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson10_1" />
     <SUITE FILE_PATH="coverage/0_py$lesson6_2.coverage" NAME="lesson6_2 覆盖结果" MODIFIED="1778319259635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson6_2" />
+    <SUITE FILE_PATH="coverage/0_py$lesson10_1.coverage" NAME="lesson10_1 覆盖结果" MODIFIED="1778513059289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson10_1" />
     <SUITE FILE_PATH="coverage/0_py$lesson6_1__1_.coverage" NAME="lesson6_1 (1) 覆盖结果" MODIFIED="1775780924001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson6_1" />
-    <SUITE FILE_PATH="coverage/0_py$re.coverage" NAME="re 覆盖结果" MODIFIED="1776256373695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson6_1" />
-    <SUITE FILE_PATH="coverage/0_py$lesso4_2_sina.coverage" NAME="lesso4_2_sina 覆盖结果" MODIFIED="1774955731716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson4_2" />
+    <SUITE FILE_PATH="coverage/0_py$re.coverage" NAME="re 覆盖结果" MODIFIED="1781015535756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson6_1" />
+    <SUITE FILE_PATH="coverage/0_py$lesso4_2_sina.coverage" NAME="lesso4_2_sina 覆盖结果" MODIFIED="1778576621001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson4_2" />
     <SUITE FILE_PATH="coverage/0_py$031_.coverage" NAME="031 欧洲杯 覆盖结果" MODIFIED="1776357452534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wxltjl/xwechat_files/wxid_qsi4vind2x6222_6e50/msg/file/2026-04" />
     <SUITE FILE_PATH="coverage/python$nameCount.coverage" NAME="nameCount 覆盖结果" MODIFIED="1762264005400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验七" />
     <SUITE FILE_PATH="coverage/python$squareSum.coverage" NAME="squareSum 覆盖结果" MODIFIED="1760448228409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
     <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 覆盖结果" MODIFIED="1680344030789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/0_py$selenium_teneent.coverage" NAME="selenium_teneent 覆盖结果" MODIFIED="1778670538727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson11_1" />
     <SUITE FILE_PATH="coverage/python$calSum.coverage" NAME="calSum 覆盖结果" MODIFIED="1764080237383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
     <SUITE FILE_PATH="coverage/0_py$.coverage" NAME="正则表达式 覆盖结果" MODIFIED="1778328498425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider" />
     <SUITE FILE_PATH="coverage/0_py$lesson5_2.coverage" NAME="lesson5_2 覆盖结果" MODIFIED="1775574410483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson5_2" />
@@ -1372,6 +1370,7 @@
     <SUITE FILE_PATH="coverage/python$areaCompute.coverage" NAME="areaCompute 覆盖结果" MODIFIED="1759222567002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/python$6.coverage" NAME="6 覆盖结果" MODIFIED="1766113547982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
     <SUITE FILE_PATH="coverage/$6.coverage" NAME="6封装 覆盖结果" MODIFIED="1677470322520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/0_py$lesson10_2.coverage" NAME="lesson10_2 覆盖结果" MODIFIED="1778937797818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson10_2" />
     <SUITE FILE_PATH="coverage/python$guess_num.coverage" NAME="guess_num 覆盖结果" MODIFIED="1760448023330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
     <SUITE FILE_PATH="coverage/$my_module1.coverage" NAME="my_module1 覆盖结果" MODIFIED="1672805626277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/$12.coverage" NAME="12 覆盖结果" MODIFIED="1703647042032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1381,18 +1380,20 @@
     <SUITE FILE_PATH="coverage/0_py$lesson9_2_1__1_.coverage" NAME="lesson9_2_1 (1) 覆盖结果" MODIFIED="1777466112682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson_9_2" />
     <SUITE FILE_PATH="coverage/0_py$lesson8_2__1_.coverage" NAME="lesson8_2 (1) 覆盖结果" MODIFIED="1776858872729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson8_2" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="迭代器 覆盖结果" MODIFIED="1761661744222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
-    <SUITE FILE_PATH="coverage/0_py$lesson8_2.coverage" NAME="lesson8_2 覆盖结果" MODIFIED="1776991508897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson8_2" />
     <SUITE FILE_PATH="coverage/0_py$euro12.coverage" NAME="euro12 覆盖结果" MODIFIED="1777388412424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/pandas综合测试" />
+    <SUITE FILE_PATH="coverage/0_py$lesson8_2.coverage" NAME="lesson8_2 覆盖结果" MODIFIED="1781016403570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson8_2" />
     <SUITE FILE_PATH="coverage/$str_util.coverage" NAME="str_util 覆盖结果" MODIFIED="1673169718685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/my_utils" />
     <SUITE FILE_PATH="coverage/0_py$lesson9_2_1.coverage" NAME="lesson9_2_1 覆盖结果" MODIFIED="1777465589420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider" />
-    <SUITE FILE_PATH="coverage/0_py$1__1_.coverage" NAME="1 (1) 覆盖结果" MODIFIED="1778249543561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/0_py$lesson2_1.coverage" NAME="lesson2_1 覆盖结果" MODIFIED="1773144144099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson2_1" />
+    <SUITE FILE_PATH="coverage/0_py$1__1_.coverage" NAME="1 (1) 覆盖结果" MODIFIED="1780413189284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0_py$lesson2_1.coverage" NAME="lesson2_1 覆盖结果" MODIFIED="1781017067433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson2_1" />
     <SUITE FILE_PATH="coverage/$3python.coverage" NAME="3python模块 覆盖结果" MODIFIED="1672811105858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/python$teacher.coverage" NAME="teacher 覆盖结果" MODIFIED="1761922069359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
+    <SUITE FILE_PATH="coverage/0_py$sina_csv.coverage" NAME="sina_csv 覆盖结果" MODIFIED="1780928250899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson12_2" />
     <SUITE FILE_PATH="coverage/python$digitals.coverage" NAME="digitals 覆盖结果" MODIFIED="1759222730663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/0_py$Dagum_.coverage" NAME="Dagum 基尼系数及空间差异 覆盖结果" MODIFIED="1778154737541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/论文" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="复写父类成员 覆盖结果" MODIFIED="1677489860601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/python$chrTell.coverage" NAME="chrTell 覆盖结果" MODIFIED="1760443269367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
+    <SUITE FILE_PATH="coverage/0_py$case4.coverage" NAME="case4 覆盖结果" MODIFIED="1778942022069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/可视化" />
     <SUITE FILE_PATH="coverage/$4.coverage" NAME="4构造方法 覆盖结果" MODIFIED="1677239436001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/python$nameCount__1_.coverage" NAME="nameCount (1) 覆盖结果" MODIFIED="1762263475399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/e9ee9d4e-dab7-48ef-9289-d9e12750078c_实验7.rar.78c" />
     <SUITE FILE_PATH="coverage/python$paramiko.coverage" NAME="paramiko 覆盖结果" MODIFIED="1763017895760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
@@ -1400,17 +1401,18 @@
     <SUITE FILE_PATH="coverage/0_py$sy.coverage" NAME="sy 覆盖结果" MODIFIED="1776158034740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson6_2" />
     <SUITE FILE_PATH="coverage/$10.coverage" NAME="10函数的类型注解 覆盖结果" MODIFIED="1679495488139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/0_py$Name.coverage" NAME="Name 覆盖结果" MODIFIED="1776993727910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/pandas综合测试" />
-    <SUITE FILE_PATH="coverage/0_py$1.coverage" NAME="1 覆盖结果" MODIFIED="1777966289937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/论文" />
+    <SUITE FILE_PATH="coverage/0_py$1.coverage" NAME="1 覆盖结果" MODIFIED="1780669602260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/聚合" />
     <SUITE FILE_PATH="coverage/$5python__2_.coverage" NAME="5python包 (2) 覆盖结果" MODIFIED="1673165553323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包" />
     <SUITE FILE_PATH="coverage/python$starTri.coverage" NAME="starTri 覆盖结果" MODIFIED="1762263875843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验七" />
     <SUITE FILE_PATH="coverage/$9.coverage" NAME="9类型注解 覆盖结果" MODIFIED="1677670132220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/python$myDict.coverage" NAME="myDict 覆盖结果" MODIFIED="1761316415440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验五" />
     <SUITE FILE_PATH="coverage/python$cuo.coverage" NAME="cuo 覆盖结果" MODIFIED="1760448238254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
     <SUITE FILE_PATH="coverage/$aa.coverage" NAME="aa 覆盖结果" MODIFIED="1676102067232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9文件的操作" />
-    <SUITE FILE_PATH="coverage/0_py$sina_re.coverage" NAME="sina_re 覆盖结果" MODIFIED="1777201289793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson8_2" />
+    <SUITE FILE_PATH="coverage/0_py$sina_re.coverage" NAME="sina_re 覆盖结果" MODIFIED="1779278575657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson12_2" />
     <SUITE FILE_PATH="coverage/$5python.coverage" NAME="5python包 覆盖结果" MODIFIED="1672824341721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
-    <SUITE FILE_PATH="coverage/0_py$lesson9_2.coverage" NAME="lesson9_2 覆盖结果" MODIFIED="1777462613417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider" />
+    <SUITE FILE_PATH="coverage/0_py$lesson9_2.coverage" NAME="lesson9_2 覆盖结果" MODIFIED="1780922991365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson9_2" />
     <SUITE FILE_PATH="coverage/python$2.coverage" NAME="2 覆盖结果" MODIFIED="1764077759581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0_py$cjb_csv.coverage" NAME="cjb_csv 覆盖结果" MODIFIED="1779279838584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson12_2" />
     <SUITE FILE_PATH="coverage/0_py$Iris.coverage" NAME="Iris 覆盖结果" MODIFIED="1777388257602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/pandas综合测试" />
     <SUITE FILE_PATH="coverage/python$nosLetters.coverage" NAME="nosLetters 覆盖结果" MODIFIED="1760447136466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业3" />
     <SUITE FILE_PATH="coverage/$4__1_.coverage" NAME="4构造方法及练习 (1) 覆盖结果" MODIFIED="1677244671309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
@@ -1418,20 +1420,28 @@
     <SUITE FILE_PATH="coverage/python$tupleOeration.coverage" NAME="tupleOeration 覆盖结果" MODIFIED="1760970456822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验四" />
     <SUITE FILE_PATH="coverage/python$statisticAnalysis.coverage" NAME="statisticAnalysis 覆盖结果" MODIFIED="1759897865953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/python$chickem100.coverage" NAME="chickem100 覆盖结果" MODIFIED="1761922160467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
+    <SUITE FILE_PATH="coverage/0_py$2.coverage" NAME="2 覆盖结果" MODIFIED="1779276062506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson12_1" />
+    <SUITE FILE_PATH="coverage/0_py$baidu_selenium.coverage" NAME="baidu_selenium 覆盖结果" MODIFIED="1779277329630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson12_2" />
+    <SUITE FILE_PATH="coverage/0_py$lx.coverage" NAME="lx 覆盖结果" MODIFIED="1778935721023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/可视化" />
     <SUITE FILE_PATH="coverage/0_py$__1_.coverage" NAME="评分计算与趋势雷达图 (1) 覆盖结果" MODIFIED="1777963909317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/论文" />
     <SUITE FILE_PATH="coverage/$1json.coverage" NAME="1json 覆盖结果" MODIFIED="1676464485834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
     <SUITE FILE_PATH="coverage/$my_module1__1_.coverage" NAME="my_module1 (1) 覆盖结果" MODIFIED="1672822525272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包/my_package" />
+    <SUITE FILE_PATH="coverage/0_py$lesson11_2.coverage" NAME="lesson11_2 覆盖结果" MODIFIED="1780927601689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson11_2" />
     <SUITE FILE_PATH="coverage/python$sxh.coverage" NAME="sxh 覆盖结果" MODIFIED="1761922243171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
     <SUITE FILE_PATH="coverage/0_py$lesson5_1.coverage" NAME="lesson5_1 覆盖结果" MODIFIED="1774962007968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson5_1" />
+    <SUITE FILE_PATH="coverage/0_py$2__.coverage" NAME="2[考] 覆盖结果" MODIFIED="1780926524846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson11_2" />
     <SUITE FILE_PATH="coverage/python$7.coverage" NAME="7必考 覆盖结果" MODIFIED="1765694686177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
     <SUITE FILE_PATH="coverage/0_py$lesson5_1_dou.coverage" NAME="lesson5_1_dou 覆盖结果" MODIFIED="1775568166535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson5_1" />
     <SUITE FILE_PATH="coverage/$5package__1_.coverage" NAME="5package (1) 覆盖结果" MODIFIED="1672825734689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
+    <SUITE FILE_PATH="coverage/0_py$sina_csv__1_.coverage" NAME="sina_csv (1) 覆盖结果" MODIFIED="1779280487111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson12_2" />
     <SUITE FILE_PATH="coverage/$module_new.coverage" NAME="module_new 覆盖结果" MODIFIED="1673012210971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
     <SUITE FILE_PATH="coverage/0_py$lesson4_1.coverage" NAME="lesson4_1 覆盖结果" MODIFIED="1774329235567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
     <SUITE FILE_PATH="coverage/0_py$drink.coverage" NAME="drink 覆盖结果" MODIFIED="1777388446214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/pandas综合测试" />
+    <SUITE FILE_PATH="coverage/0_py$case6.coverage" NAME="case6 覆盖结果" MODIFIED="1779416218641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/可视化" />
     <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 覆盖结果" MODIFIED="1765693405708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/0_py$lesson5_2__1_.coverage" NAME="lesson5_2 (1) 覆盖结果" MODIFIED="1775179647463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson5_2" />
     <SUITE FILE_PATH="coverage/python$primes.coverage" NAME="primes 覆盖结果" MODIFIED="1764080281547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
+    <SUITE FILE_PATH="coverage/0_py$case1_2__1_.coverage" NAME="case1-2 (1) 覆盖结果" MODIFIED="1778937909804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/可视化" />
     <SUITE FILE_PATH="coverage/$5.coverage" NAME="5类内置方法 覆盖结果" MODIFIED="1677246934560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/0_py$def.coverage" NAME="def作业 覆盖结果" MODIFIED="1776347383460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson6_2/pandas" />
     <SUITE FILE_PATH="coverage/python$dateStr.coverage" NAME="dateStr 覆盖结果" MODIFIED="1761446679057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验四" />
@@ -1440,21 +1450,25 @@
     <SUITE FILE_PATH="coverage/$11.coverage" NAME="11杨辉三角 覆盖结果" MODIFIED="1673165154495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
     <SUITE FILE_PATH="coverage/0_py$chipo.coverage" NAME="chipo 覆盖结果" MODIFIED="1777389013861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/pandas综合测试" />
     <SUITE FILE_PATH="coverage/python$reg_polygon.coverage" NAME="reg_polygon 覆盖结果" MODIFIED="1764080132816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验八" />
-    <SUITE FILE_PATH="coverage/0_py$lesson7_1.coverage" NAME="lesson7_1 覆盖结果" MODIFIED="1776389669357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson7_1" />
+    <SUITE FILE_PATH="coverage/0_py$lesson7_1.coverage" NAME="lesson7_1 覆盖结果" MODIFIED="1778400954018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson7_1" />
     <SUITE FILE_PATH="coverage/python$adminDict.coverage" NAME="adminDict 覆盖结果" MODIFIED="1761922269008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
     <SUITE FILE_PATH="coverage/python$sum15__1_.coverage" NAME="sum15 (1) 覆盖结果" MODIFIED="1761922211114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验六" />
     <SUITE FILE_PATH="coverage/$telnetensp.coverage" NAME="telnet登录ensp 覆盖结果" MODIFIED="1695776562639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网络工程" />
     <SUITE FILE_PATH="coverage/$5python__1_.coverage" NAME="5python包 (1) 覆盖结果" MODIFIED="1672825797636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/$file_util.coverage" NAME="file_util 覆盖结果" MODIFIED="1673172211032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/my_utils" />
     <SUITE FILE_PATH="coverage/$3__1_.coverage" NAME="3类和对象 (1) 覆盖结果" MODIFIED="1677073976915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
+    <SUITE FILE_PATH="coverage/0_py$lesson11_1.coverage" NAME="lesson11_1 覆盖结果" MODIFIED="1778585305938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson11_1" />
     <SUITE FILE_PATH="coverage/$5__1_.coverage" NAME="5疫情可视化 (1) 覆盖结果" MODIFIED="1676991074339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11可视化图表" />
     <SUITE FILE_PATH="coverage/0_py$pandas_3.coverage" NAME="pandas_3 覆盖结果" MODIFIED="1776348914636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson6_2/pandas" />
     <SUITE FILE_PATH="coverage/0_py$lesson3_2.coverage" NAME="lesson3_2 覆盖结果" MODIFIED="1777293766128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
     <SUITE FILE_PATH="coverage/python$paramiko11__1_.coverage" NAME="paramiko11 (1) 覆盖结果" MODIFIED="1763091529396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14网络工程" />
     <SUITE FILE_PATH="coverage/python$scoreLevel.coverage" NAME="scoreLevel 覆盖结果" MODIFIED="1760081485807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$1__1_.coverage" NAME="1 (1) 覆盖结果" MODIFIED="1766112906738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/考试" />
+    <SUITE FILE_PATH="coverage/0_py$lesson11_1__1_.coverage" NAME="lesson11_1 (1) 覆盖结果" MODIFIED="1780018181068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson11_1" />
     <SUITE FILE_PATH="coverage/$8dict.coverage" NAME="8字典dict 覆盖结果" MODIFIED="1676465009443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
-    <SUITE FILE_PATH="coverage/0_py$lesson8_1.coverage" NAME="lesson8_1 覆盖结果" MODIFIED="1776772537782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson8_1" />
+    <SUITE FILE_PATH="coverage/0_py$lesson8_1.coverage" NAME="lesson8_1 覆盖结果" MODIFIED="1780922343822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson8_1" />
+    <SUITE FILE_PATH="coverage/0_py$temp_3_.coverage" NAME="temp(3) 覆盖结果" MODIFIED="1780014788196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson11_1" />
+    <SUITE FILE_PATH="coverage/0_py$032_2.coverage" NAME="032_2 覆盖结果" MODIFIED="1779414959386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wxltjl/xwechat_files/wxid_qsi4vind2x6222_6e50/msg/file/2026-05" />
     <SUITE FILE_PATH="coverage/0_py$lesson2_2.coverage" NAME="lesson2_2 覆盖结果" MODIFIED="1774334353529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析" />
     <SUITE FILE_PATH="coverage/python$scireLevel.coverage" NAME="scireLevel 覆盖结果" MODIFIED="1760443630018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
     <SUITE FILE_PATH="coverage/python$tempTran.coverage" NAME="tempTran 覆盖结果" MODIFIED="1759222529875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
@@ -1465,6 +1479,9 @@
     <SUITE FILE_PATH="coverage/$1__1_.coverage" NAME="1类基础 (1) 覆盖结果" MODIFIED="1677060425519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12面向对象" />
     <SUITE FILE_PATH="coverage/$3.coverage" NAME="3函数作为参数传递加匿名函数 覆盖结果" MODIFIED="1676022953980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
     <SUITE FILE_PATH="coverage/python$mul99.coverage" NAME="mul99 覆盖结果" MODIFIED="1761043496910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验三" />
+    <SUITE FILE_PATH="coverage/0_py$case1_2.coverage" NAME="case1-2 覆盖结果" MODIFIED="1779415503961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/可视化" />
+    <SUITE FILE_PATH="coverage/0_py$case10.coverage" NAME="case10 覆盖结果" MODIFIED="1779435636930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/可视化" />
+    <SUITE FILE_PATH="coverage/0_py$lesson12_1.coverage" NAME="lesson12_1 覆盖结果" MODIFIED="1779276923397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webspider/lesson12_1" />
     <SUITE FILE_PATH="coverage/0_py$pandas_3__1_.coverage" NAME="pandas_3 (1) 覆盖结果" MODIFIED="1776358228260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15数据分析/lesson6_2" />
     <SUITE FILE_PATH="coverage/python$wordCount.coverage" NAME="wordCount 覆盖结果" MODIFIED="1762263949597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实验七" />
     <SUITE FILE_PATH="coverage/python$mySqrt__1_.coverage" NAME="mySqrt (1) 覆盖结果" MODIFIED="1760443029303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业2" />
